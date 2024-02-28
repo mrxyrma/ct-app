@@ -1,5 +1,17 @@
-import { createApp } from 'vue'
-import './style.css'
-import App from './app.vue'
+import { createApp } from 'vue';
+import './style.css';
+import { type App } from 'vue';
+import MainApp from './app.vue';
+import router from './router';
 
-createApp(App).mount('#app')
+const app = createApp(MainApp);
+
+app.use(router);
+
+const startApp = async (app: App) => {
+  await router.isReady();
+
+  app.mount('#app');
+};
+
+startApp(app).catch(console.error);
