@@ -1,0 +1,863 @@
+﻿[
+  {
+    "_id": 1,
+    "Серия": [
+      "GV2"
+    ],
+    "Артикул": "ADL06-644",
+    "Наименование": "Дополнительный контакт GV2-AN11 1НО+1НЗ (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/ecc/e2vgqohhx35hvr9mf32qa62t74eoc547/NS2-AU20.jpg"
+  },
+  {
+    "_id": 2,
+    "Серия": [
+      "GV2"
+    ],
+    "Артикул": "ADL06-645",
+    "Наименование": "Дополнительный контакт GV2-AN20 2НО (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/ecc/e2vgqohhx35hvr9mf32qa62t74eoc547/NS2-AU20.jpg"
+  },
+  {
+    "_id": 3,
+    "Серия": [
+      "GV3"
+    ],
+    "Артикул": "ADL06-646",
+    "Наименование": "Дополнительный контакт GV3-A01 1НО+1НЗ (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/ecc/e2vgqohhx35hvr9mf32qa62t74eoc547/NS2-AU20.jpg"
+  },
+  {
+    "_id": 4,
+    "Серия": [
+      "GV3"
+    ],
+    "Артикул": "ADL06-647",
+    "Наименование": "Дополнительный контакт GV3-A02 2НО (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/ecc/e2vgqohhx35hvr9mf32qa62t74eoc547/NS2-AU20.jpg"
+  },
+  {
+    "_id": 5,
+    "Серия": [
+      "GV2"
+    ],
+    "Артикул": "ADL06-648",
+    "Наименование": "Дополнительный контакт поперечный GV2-AE11 1НО+1НЗ (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/246/jqid91t2ezg0ngt5cwkebg0s1p4v1chn/NS2-AE11.jpg"
+  },
+  {
+    "_id": 6,
+    "Серия": [
+      "GV2"
+    ],
+    "Артикул": "ADL06-649",
+    "Наименование": "Дополнительный контакт поперечный GV2-AE20 2НО (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/459/ckmibw08c7e8gtydp0urkzvtuiu60bdm/NS2-AE20.jpg"
+  },
+  {
+    "_id": 7,
+    "Серия": [
+      "GV2"
+    ],
+    "Артикул": "ADL06-640",
+    "Наименование": "Аварийный контакт GV2-1010 2НО (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/d58/q589m5dn80y4abtvp9ovib9je5hpqjz4/NS2-FA.jpg"
+  },
+  {
+    "_id": 8,
+    "Серия": [
+      "GV2"
+    ],
+    "Артикул": "ADL06-641",
+    "Наименование": "Аварийный контакт GV2-1001 1НО+1НЗ (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/d58/q589m5dn80y4abtvp9ovib9je5hpqjz4/NS2-FA.jpg"
+  },
+  {
+    "_id": 9,
+    "Серия": [
+      "GV2"
+    ],
+    "Артикул": "ADL06-642",
+    "Наименование": "Аварийный контакт GV2-0110 1НЗ+1НО (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/d58/q589m5dn80y4abtvp9ovib9je5hpqjz4/NS2-FA.jpg"
+  },
+  {
+    "_id": 10,
+    "Серия": [
+      "GV2"
+    ],
+    "Артикул": "ADL06-643",
+    "Наименование": "Аварийный контакт GV2-0101 2НЗ (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/d58/q589m5dn80y4abtvp9ovib9je5hpqjz4/NS2-FA.jpg"
+  },
+  {
+    "_id": 11,
+    "Серия": [
+      "GV2"
+    ],
+    "Артикул": "ADL06-651",
+    "Наименование": "Расцепитель минимального напряжения РМ2 Ue 110В (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/a63/y09yah9xv7w57nl0j1jw1yfue9q4it4g/UV.jpg"
+  },
+  {
+    "_id": 12,
+    "Серия": [
+      "GV2"
+    ],
+    "Артикул": "ADL06-652",
+    "Наименование": "Расцепитель минимального напряжения РМ2 Ue 230В (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/a63/y09yah9xv7w57nl0j1jw1yfue9q4it4g/UV.jpg"
+  },
+  {
+    "_id": 13,
+    "Серия": [
+      "GV2"
+    ],
+    "Артикул": "ADL06-653",
+    "Наименование": "Расцепитель минимального напряжения РМ2 Ue 400В (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/a63/y09yah9xv7w57nl0j1jw1yfue9q4it4g/UV.jpg"
+  },
+  {
+    "_id": 14,
+    "Серия": [
+      "GV2"
+    ],
+    "Артикул": "ADL06-654",
+    "Наименование": "Расцепитель независимый РН2 Ue 110В (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/dac/ax9qw6u0q7xugfs8etcoxwabrncvkkju/NS2-SH.jpg"
+  },
+  {
+    "_id": 15,
+    "Серия": [
+      "GV2"
+    ],
+    "Артикул": "ADL06-655",
+    "Наименование": "Расцепитель независимый РН2 Ue 230В (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/dac/ax9qw6u0q7xugfs8etcoxwabrncvkkju/NS2-SH.jpg"
+  },
+  {
+    "_id": 16,
+    "Серия": [
+      "GV2"
+    ],
+    "Артикул": "ADL06-656",
+    "Наименование": "Расцепитель независимый РН2 Ue 400В (ANDELI)",
+    "src": "https://chint.ru/upload/iblock/dac/ax9qw6u0q7xugfs8etcoxwabrncvkkju/NS2-SH.jpg"
+  },
+  {
+    "_id": 17,
+    "Серия": [
+      "NS2-25",
+      "NS2-25X"
+    ],
+    "Артикул": 495968,
+    "Наименование": "Доп.контакт поперечный NS2-AE11 1НО+1НЗ (R)",
+    "src": "https://chint.ru/upload/iblock/246/jqid91t2ezg0ngt5cwkebg0s1p4v1chn/NS2-AE11.jpg"
+  },
+  {
+    "_id": 18,
+    "Серия": [
+      "NS2-25",
+      "NS2-25X"
+    ],
+    "Артикул": 495948,
+    "Наименование": "Доп.контакт поперечный NS2-AE20 2НО (R)",
+    "src": "https://chint.ru/upload/iblock/459/ckmibw08c7e8gtydp0urkzvtuiu60bdm/NS2-AE20.jpg"
+  },
+  {
+    "_id": 19,
+    "Серия": [
+      "NS2-25",
+      "NS2-25X"
+    ],
+    "Артикул": 495996,
+    "Наименование": "Доп.контакт боковой NS2-AU11 для NS2-25 1НО+1НЗ (R)",
+    "src": "https://chint.ru/upload/iblock/390/h1a1u4h1il3fjd5oxqqkshv93dhns9yj/NS2-AU11.jpg"
+  },
+  {
+    "_id": 20,
+    "Серия": [
+      "NS2-25",
+      "NS2-25X"
+    ],
+    "Артикул": 495951,
+    "Наименование": "Доп.контакт боковой NS2-AU20 для NS2-25 2НО (R)",
+    "src": "https://chint.ru/upload/iblock/ecc/e2vgqohhx35hvr9mf32qa62t74eoc547/NS2-AU20.jpg"
+  },
+  {
+    "_id": 21,
+    "Серия": [
+      "NS2-80"
+    ],
+    "Артикул": 495874,
+    "Наименование": "Доп.контакт боковой NS2-AU11 для NS2-80 (R)",
+    "src": "https://chint.ru/upload/iblock/722/oj5hh152w1crfh4tyaai0g0ghibquk30/NS2-AU11.jpg"
+  },
+  {
+    "_id": 22,
+    "Серия": [
+      "NS2-80"
+    ],
+    "Артикул": 495873,
+    "Наименование": "Доп.контакт боковой NS2-AU20 2НО для NS2-80(R)",
+    "src": "https://chint.ru/upload/iblock/977/x6g9qy70vjx9kibgdiar228k7hxyigdf/NS2-AU20.jpg"
+  },
+  {
+    "_id": 23,
+    "Серия": [
+      "NS2-80B"
+    ],
+    "Артикул": 495972,
+    "Наименование": "Доп.контакт боковой NS2-AU11 для NS2-80B (R)",
+    "src": "https://chint.ru/upload/iblock/722/oj5hh152w1crfh4tyaai0g0ghibquk30/NS2-AU11.jpg"
+  },
+  {
+    "_id": 24,
+    "Серия": [
+      "NS2-80B"
+    ],
+    "Артикул": 495942,
+    "Наименование": "Доп.контакт боковой NS2-AU20 для NS2-80B (R)",
+    "src": "https://chint.ru/upload/iblock/977/x6g9qy70vjx9kibgdiar228k7hxyigdf/NS2-AU20.jpg"
+  },
+  {
+    "_id": 25,
+    "Серия": [
+      "NS2-25",
+      "NS2-25X",
+      "NS2-80"
+    ],
+    "Артикул": 495974,
+    "Наименование": "Расцепитель независимый NS2-SH110 (R)",
+    "src": "https://chint.ru/upload/iblock/dac/ax9qw6u0q7xugfs8etcoxwabrncvkkju/NS2-SH.jpg"
+  },
+  {
+    "_id": 26,
+    "Серия": [
+      "NS2-25",
+      "NS2-25X",
+      "NS2-80"
+    ],
+    "Артикул": 495977,
+    "Наименование": "Расцепитель независимый NS2-SH220 (R)",
+    "src": "https://chint.ru/upload/iblock/dac/ax9qw6u0q7xugfs8etcoxwabrncvkkju/NS2-SH.jpg"
+  },
+  {
+    "_id": 27,
+    "Серия": [
+      "NS2-25",
+      "NS2-25X",
+      "NS2-80"
+    ],
+    "Артикул": 495980,
+    "Наименование": "Расцепитель независимый NS2-SH380 (R)",
+    "src": "https://chint.ru/upload/iblock/dac/ax9qw6u0q7xugfs8etcoxwabrncvkkju/NS2-SH.jpg"
+  },
+  {
+    "_id": 28,
+    "Серия": [
+      "NS2-25",
+      "NS2-25X",
+      "NS2-80"
+    ],
+    "Артикул": 495908,
+    "Наименование": "Расцепитель миним. напряжения NS2-UВ110 (R)",
+    "src": "https://chint.ru/upload/iblock/a63/y09yah9xv7w57nl0j1jw1yfue9q4it4g/UV.jpg"
+  },
+  {
+    "_id": 29,
+    "Серия": [
+      "NS2-25",
+      "NS2-25X",
+      "NS2-80"
+    ],
+    "Артикул": 495907,
+    "Наименование": "Расцепитель миним. напряжения NS2-UV220 (R)",
+    "src": "https://chint.ru/upload/iblock/a63/y09yah9xv7w57nl0j1jw1yfue9q4it4g/UV.jpg"
+  },
+  {
+    "_id": 30,
+    "Серия": [
+      "NS2-25",
+      "NS2-25X",
+      "NS2-80"
+    ],
+    "Артикул": 495906,
+    "Наименование": "Расцепитель миним. напряжения NS2-UВ380 (R)",
+    "src": "https://chint.ru/upload/iblock/a63/y09yah9xv7w57nl0j1jw1yfue9q4it4g/UV.jpg"
+  },
+  {
+    "_id": 31,
+    "Серия": [
+      "NS2-25",
+      "NS2-25X",
+      "NS2-80"
+    ],
+    "Артикул": 495962,
+    "Наименование": "Аварийно-Всп.контакты NS2-FA1010 (R)",
+    "src": "https://chint.ru/upload/iblock/d58/q589m5dn80y4abtvp9ovib9je5hpqjz4/NS2-FA.jpg"
+  },
+  {
+    "_id": 32,
+    "Серия": [
+      "NS2-25",
+      "NS2-25X",
+      "NS2-80"
+    ],
+    "Артикул": 495959,
+    "Наименование": "Аварийно-Всп.контакты NS2-FA0101 (R)",
+    "src": "https://chint.ru/upload/iblock/d58/q589m5dn80y4abtvp9ovib9je5hpqjz4/NS2-FA.jpg"
+  },
+  {
+    "_id": 33,
+    "Серия": [
+      "NS2-25",
+      "NS2-25X",
+      "NS2-80"
+    ],
+    "Артикул": 495965,
+    "Наименование": "Аварийно-Всп.контакты NS2-FA1001 (R)",
+    "src": "https://chint.ru/upload/iblock/d58/q589m5dn80y4abtvp9ovib9je5hpqjz4/NS2-FA.jpg"
+  },
+  {
+    "_id": 34,
+    "Серия": [
+      "NS2-25",
+      "NS2-25X",
+      "NS2-80"
+    ],
+    "Артикул": 495956,
+    "Наименование": "Аварийно-Всп.контакты NS2-FA0110 (R)",
+    "src": "https://chint.ru/upload/iblock/d58/q589m5dn80y4abtvp9ovib9je5hpqjz4/NS2-FA.jpg"
+  },
+  {
+    "_id": 35,
+    "Серия": [
+      "NS2-25"
+    ],
+    "Артикул": 495945,
+    "Наименование": "Защитная оболочка с кнопкой \"Стоп\" для NS2 (R)",
+    "src": "https://chint.ru/upload/iblock/0d0/5gxyjehmqmopc2tt5i7hevl967fsz4jj/Защитная%20оболочка.jpg"
+  },
+  {
+    "_id": 36,
+    "Серия": [
+      "NS2-25X"
+    ],
+    "Артикул": 302963,
+    "Наименование": "Выносная рукоятка для NS2-25X (R)",
+    "src": "https://download.schneider-electric.com/files?p_Doc_Ref=GV2APN01_Image&p_File_Type=rendition_369_jpg&default_image=DefaultProductImage.png"
+  },
+  {
+    "_id": 37,
+    "Серия": [
+      "NS2-80"
+    ],
+    "Артикул": 302964,
+    "Наименование": "Выносная рукоятка для NS2-80 с поворотной ручкой (R)",
+    "src": "https://download.schneider-electric.com/files?p_Doc_Ref=GV2APN01_Image&p_File_Type=rendition_369_jpg&default_image=DefaultProductImage.png"
+  },
+  {
+    "_id": 38,
+    "Серия": [
+      "ПРК32"
+    ],
+    "Артикул": 270386,
+    "Наименование": "Контакт вспомогательный поперечный КВП32-11",
+    "src": "https://keaz.ru/f/13472/270386-kontakt-vspomogatelniy-poperechniy-kvp32-11.png"
+  },
+  {
+    "_id": 39,
+    "Серия": [
+      "ПРК32"
+    ],
+    "Артикул": 270390,
+    "Наименование": "Контакт вспомогательный поперечный КВП32-20",
+    "src": "https://keaz.ru/f/13472/270386-kontakt-vspomogatelniy-poperechniy-kvp32-11.png"
+  },
+  {
+    "_id": 40,
+    "Серия": [
+      "ПРК32"
+    ],
+    "Артикул": 270387,
+    "Наименование": "\tКонтакт вспомогательный боковой КВБ32-11",
+    "src": "https://keaz.ru/f/13473/270387-kontakt-vspomogatelniy-bokovoy-kvb32-11.png"
+  },
+  {
+    "_id": 41,
+    "Серия": [
+      "ПРК32"
+    ],
+    "Артикул": 270388,
+    "Наименование": "\tКонтакт вспомогательный боковой КВБ32-20",
+    "src": "https://keaz.ru/f/13473/270387-kontakt-vspomogatelniy-bokovoy-kvb32-11.png"
+  },
+  {
+    "_id": 42,
+    "Серия": [
+      "ПРК80"
+    ],
+    "Артикул": 270389,
+    "Наименование": "\tКонтакт вспомогательный боковой КВБ80-11",
+    "src": "https://keaz.ru/f/13474/270389-kontakt-vspomogatelniy-bokovoy-kvb80-11.png"
+  },
+  {
+    "_id": 43,
+    "Серия": [
+      "ПРК32"
+    ],
+    "Артикул": 270391,
+    "Наименование": "Расцепитель независимый РН32-220В",
+    "src": "https://keaz.ru/f/13476/270391-rascepitel-nezavisimiy-rn32-220v.png"
+  },
+  {
+    "_id": 44,
+    "Серия": [
+      "ПРК32"
+    ],
+    "Артикул": 269956,
+    "Наименование": "\tРасцепитель минимального напряжения РМН32-220В",
+    "src": "https://keaz.ru/f/13475/269956-rascepitel-minimalnogo-napryajeniya-rmn32-220v.png"
+  },
+  {
+    "_id": 45,
+    "Серия": [
+      "ПРК32"
+    ],
+    "Артикул": 269957,
+    "Наименование": "Расцепитель минимального напряжения РМН32-380В",
+    "src": "https://keaz.ru/f/13475/269956-rascepitel-minimalnogo-napryajeniya-rmn32-220v.png"
+  },
+  {
+    "_id": 46,
+    "Серия": [
+      "ПРК32"
+    ],
+    "Артикул": 270393,
+    "Наименование": "Контакт сигнальный КС32-11",
+    "src": "https://keaz.ru/f/13471/270393-kontakt-signalniy-ks32-11.png"
+  },
+  {
+    "_id": 47,
+    "Серия": [
+      "ПРК32"
+    ],
+    "Артикул": 270392,
+    "Наименование": "Контакт сигнальный КС32-02",
+    "src": "https://keaz.ru/f/13471/270393-kontakt-signalniy-ks32-11.png"
+  },
+  {
+    "_id": 48,
+    "Серия": [
+      "ПРК32"
+    ],
+    "Артикул": 270394,
+    "Наименование": "Контакт сигнальный КС32-20",
+    "src": "https://keaz.ru/f/13471/270393-kontakt-signalniy-ks32-11.png"
+  },
+  {
+    "_id": 49,
+    "Серия": [
+      "ПРК80"
+    ],
+    "Артикул": 269917,
+    "Наименование": "\tОболочка защитная с кнопкой \"СТОП\" IP55",
+    "src": "https://keaz.ru/f/13477/obolochka-s-knopkoy-stop.png"
+  },
+  {
+    "_id": 50,
+    "Серия": [
+      "ВА-431"
+    ],
+    "Артикул": "21269DEK",
+    "Наименование": "Контакт доп. фронтальный 1НО+1НЗ для ВА-431",
+    "src": "https://www.dek.ru/upload/catalog/products/3d5e408613d485b074ac6067884bba22.jpg"
+  },
+  {
+    "_id": 51,
+    "Серия": [
+      "ВА-431"
+    ],
+    "Артикул": "21268DEK",
+    "Наименование": "Контакт доп. фронтальный 2НО для ВА-431",
+    "src": "https://www.dek.ru/upload/catalog/products/3d5e408613d485b074ac6067884bba22.jpg"
+  },
+  {
+    "_id": 52,
+    "Серия": [
+      "ВА-431"
+    ],
+    "Артикул": "21271DEK",
+    "Наименование": "Контакт доп. боковой 1НО+1НЗ для ВА-431",
+    "src": "https://www.dek.ru/upload/catalog/products/5782a6d38d4e5531530b33db34719d6a.jpg"
+  },
+  {
+    "_id": 53,
+    "Серия": [
+      "ВА-431"
+    ],
+    "Артикул": "21270DEK",
+    "Наименование": "Контакт доп. боковой 2НО для ВА-431",
+    "src": "https://www.dek.ru/upload/catalog/products/5782a6d38d4e5531530b33db34719d6a.jpg"
+  },
+  {
+    "_id": 54,
+    "Серия": [
+      "ВА-431"
+    ],
+    "Артикул": "21264DEK",
+    "Наименование": "Расцепитель независимый 110-127В для ВА-431",
+    "src": "https://www.dek.ru/upload/catalog/products/0f59f04a952106d56fddeeb3b87a4eab.jpg"
+  },
+  {
+    "_id": 55,
+    "Серия": [
+      "ВА-431"
+    ],
+    "Артикул": "21265DEK",
+    "Наименование": "Расцепитель независимый 220-240В для ВА-431",
+    "src": "https://www.dek.ru/upload/catalog/products/0f59f04a952106d56fddeeb3b87a4eab.jpg"
+  },
+  {
+    "_id": 56,
+    "Серия": [
+      "ВА-431"
+    ],
+    "Артикул": "21266DEK",
+    "Наименование": "Расцепитель независимый 380-400В для ВА-431",
+    "src": "https://www.dek.ru/upload/catalog/products/0f59f04a952106d56fddeeb3b87a4eab.jpg"
+  },
+  {
+    "_id": 57,
+    "Серия": [
+      "ВА-431"
+    ],
+    "Артикул": "21267DEK",
+    "Наименование": "Расцепитель независимый 415В для ВА-431",
+    "src": "https://www.dek.ru/upload/catalog/products/0f59f04a952106d56fddeeb3b87a4eab.jpg"
+  },
+  {
+    "_id": 58,
+    "Серия": [
+      "ВА-431"
+    ],
+    "Артикул": "21260DEK",
+    "Наименование": "Расцепитель минимального напряжения 110-127 В для ВА-431",
+    "src": "https://www.dek.ru/upload/catalog/products/0f59f04a952106d56fddeeb3b87a4eab.jpg"
+  },
+  {
+    "_id": 59,
+    "Серия": [
+      "ВА-431"
+    ],
+    "Артикул": "21261DEK",
+    "Наименование": "Расцепитель минимального напряжения 220-240 В для ВА-431",
+    "src": "https://www.dek.ru/upload/catalog/products/0f59f04a952106d56fddeeb3b87a4eab.jpg"
+  },
+  {
+    "_id": 60,
+    "Серия": [
+      "ВА-431"
+    ],
+    "Артикул": "21262DEK",
+    "Наименование": "Расцепитель минимального напряжения 380-400 В для ВА-431",
+    "src": "https://www.dek.ru/upload/catalog/products/0f59f04a952106d56fddeeb3b87a4eab.jpg"
+  },
+  {
+    "_id": 61,
+    "Серия": [
+      "ВА-431"
+    ],
+    "Артикул": "21263DEK",
+    "Наименование": "Расцепитель минимальногонапряжения 415 В для ВА-431",
+    "src": "https://www.dek.ru/upload/catalog/products/0f59f04a952106d56fddeeb3b87a4eab.jpg"
+  },
+  {
+    "_id": 62,
+    "Серия": [
+      "ВА-431"
+    ],
+    "Артикул": "21272DEK",
+    "Наименование": "Корпус пласт. IP55 для установки ВА-431",
+    "src": "https://www.dek.ru/upload/catalog/products/e1e719323d5834321668d4b5896814fa.jpg"
+  },
+  {
+    "_id": 63,
+    "Серия": [
+      "ВА-432"
+    ],
+    "Артикул": "21280DEK",
+    "Наименование": "Контакт доп. боковой 1НО+1НЗ для ВА-432",
+    "src": "https://www.dek.ru/upload/catalog/products/5782a6d38d4e5531530b33db34719d6a.jpg"
+  },
+  {
+    "_id": 64,
+    "Серия": [
+      "SM1"
+    ],
+    "Артикул": "SM1X1111",
+    "Наименование": "ДОП. КОНТАКТ, МОНТАЖ СПЕРЕДИ ДЛЯ SM1P/R 1NO+1NC",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaId7Vt%2BznH2fY68FXsSYumY%3D&level=ProductImg"
+  },
+  {
+    "_id": 65,
+    "Серия": [
+      "SM1"
+    ],
+    "Артикул": "SM1X1120",
+    "Наименование": "ДОП. КОНТАКТ, МОНТАЖ СПЕРЕДИ ДЛЯ SM1P/R 2NO",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaId7Vt%2BznH2fY68FXsSYumY%3D&level=ProductImg"
+  },
+  {
+    "_id": 66,
+    "Серия": [
+      "SM1"
+    ],
+    "Артикул": "SM1X1202",
+    "Наименование": "БОКОВОЙ ДОП. КОНТАКТ, ДЛЯ SM1P/R 2NC",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaB7%2BqNqapK8YYHYtLweqIHE%3D&level=ProductImg"
+  },
+  {
+    "_id": 67,
+    "Серия": [
+      "SM1"
+    ],
+    "Артикул": "SM1X1211",
+    "Наименование": "БОКОВОЙ ДОП. КОНТАКТ, ДЛЯ SM1P/R 1NO+1NC",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaB7%2BqNqapK8YYHYtLweqIHE%3D&level=ProductImg"
+  },
+  {
+    "_id": 68,
+    "Серия": [
+      "SM1"
+    ],
+    "Артикул": "SM1X1220",
+    "Наименование": "БОКОВОЙ ДОП. КОНТАКТ, ДЛЯ SM1P/R 2NO",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaB7%2BqNqapK8YYHYtLweqIHE%3D&level=ProductImg"
+  },
+  {
+    "_id": 69,
+    "Серия": [
+      "SM1"
+    ],
+    "Артикул": "SM1X1311",
+    "Наименование": "БОКОВОЙ СИГНАЛ. КОНТАКТ, ДЛЯ SM1P/R 1NO+1NC",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaCjzi%2BmFbGweuh2kIgfSziM%3D&level=ProductImg"
+  },
+  {
+    "_id": 70,
+    "Серия": [
+      "SM1"
+    ],
+    "Артикул": "SM1X1311M",
+    "Наименование": "БОКОВОЙ ДОП. КОНТАКТ, ДЛЯ МАГНИТНОГО ОТКЛЮЧЕНИЯ SM1P/R 1NO+1NC",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaF4KB5ic69XHvl4hH9INmUg%3D&level=ProductImg"
+  },
+  {
+    "_id": 71,
+    "Серия": [
+      "SM1"
+    ],
+    "Артикул": "SM1X16024",
+    "Наименование": "НЕЗАВИСИМЫЙ РАСЦЕПИТЕЛЬ ДЛЯ SM1P/R 24V 50/60HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaAS4smGdrUPaqt7qKlCRX0k%3D&level=ProductImg"
+  },
+  {
+    "_id": 72,
+    "Серия": [
+      "SM1"
+    ],
+    "Артикул": "SM1X16110",
+    "Наименование": "НЕЗАВИСИМЫЙ РАСЦЕПИТЕЛЬ ДЛЯ SM1P/R 110V 50/60HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaAS4smGdrUPaqt7qKlCRX0k%3D&level=ProductImg"
+  },
+  {
+    "_id": 73,
+    "Серия": [
+      "SM1"
+    ],
+    "Артикул": "SM1X16230",
+    "Наименование": "НЕЗАВИСИМЫЙ РАСЦЕПИТЕЛЬ ДЛЯ SM1P/R 230V 50/60HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaAS4smGdrUPaqt7qKlCRX0k%3D&level=ProductImg"
+  },
+  {
+    "_id": 74,
+    "Серия": [
+      "SM1"
+    ],
+    "Артикул": "SM1X16400",
+    "Наименование": "НЕЗАВИСИМЫЙ РАСЦЕПИТЕЛЬ ДЛЯ SM1P/R 400V 50/60HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaAS4smGdrUPaqt7qKlCRX0k%3D&level=ProductImg"
+  },
+  {
+    "_id": 75,
+    "Серия": [
+      "SM1"
+    ],
+    "Артикул": "SM1X14024",
+    "Наименование": "РАСЦЕПИТЕЛЬ МИНИМАЛЬНОГО НАПРЯЖЕНИЯ SM1P/R 24V 50HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaCPdfv6kKwXpJevM39sQ9l8%3D&level=ProductImg"
+  },
+  {
+    "_id": 76,
+    "Серия": [
+      "SM1"
+    ],
+    "Артикул": "SM1X14110",
+    "Наименование": "РАСЦЕПИТЕЛЬ МИНИМАЛЬНОГО НАПРЯЖЕНИЯ SM1P/R 110V 50/60HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaCPdfv6kKwXpJevM39sQ9l8%3D&level=ProductImg"
+  },
+  {
+    "_id": 77,
+    "Серия": [
+      "SM1"
+    ],
+    "Артикул": "SM1X14230",
+    "Наименование": "РАСЦЕПИТЕЛЬ МИНИМАЛЬНОГО НАПРЯЖЕНИЯ SM1P/R 230V 50/60HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaCPdfv6kKwXpJevM39sQ9l8%3D&level=ProductImg"
+  },
+  {
+    "_id": 78,
+    "Серия": [
+      "SM1"
+    ],
+    "Артикул": "SM1X14400",
+    "Наименование": "РАСЦЕПИТЕЛЬ МИНИМАЛЬНОГО НАПРЯЖЕНИЯ SM1P/R 400V 50/60HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaCPdfv6kKwXpJevM39sQ9l8%3D&level=ProductImg"
+  },
+  {
+    "_id": 79,
+    "Серия": [
+      "SM2"
+    ],
+    "Артикул": "SM2X1111",
+    "Наименование": "ДОП. КОНТАКТ, МОНТАЖ СПЕРЕДИ SM2R/SM3R 1NO+1NC",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaKeYug56ObZc3ZNPFiGvLmY%3D&level=ProductImg"
+  },
+  {
+    "_id": 80,
+    "Серия": [
+      "SM2"
+    ],
+    "Артикул": "SM2X1120",
+    "Наименование": "ДОП. КОНТАКТ, МОНТАЖ СПЕРЕДИ ДЛЯ SM2R/SM3R 2NO",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaKeYug56ObZc3ZNPFiGvLmY%3D&level=ProductImg"
+  },
+  {
+    "_id": 81,
+    "Серия": [
+      "SM2"
+    ],
+    "Артикул": "SM2X1102",
+    "Наименование": "ДОП. КОНТАКТ, МОНТАЖ СПЕРЕДИ ДЛЯ SM2R/SM3R 2NC",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaKeYug56ObZc3ZNPFiGvLmY%3D&level=ProductImg"
+  },
+  {
+    "_id": 82,
+    "Серия": [
+      "SM2"
+    ],
+    "Артикул": "SM2X1211",
+    "Наименование": "БОКОВОЙ ДОП. КОНТАКТ ДЛЯ SM2R/SM3R 1NO+1NC",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaNuNXpc786UTKUQfBsT9ZvY%3D&level=ProductImg"
+  },
+  {
+    "_id": 83,
+    "Серия": [
+      "SM2"
+    ],
+    "Артикул": "SM2X1220",
+    "Наименование": "БОКОВОЙ ДОП. КОНТАКТ ДЛЯ SM2R/SM3R 2NO",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaNuNXpc786UTKUQfBsT9ZvY%3D&level=ProductImg"
+  },
+  {
+    "_id": 84,
+    "Серия": [
+      "SM2"
+    ],
+    "Артикул": "SM2X1202",
+    "Наименование": "БОКОВОЙ ДОП. КОНТАКТ ДЛЯ SM2R/SM3R 2NC",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaNuNXpc786UTKUQfBsT9ZvY%3D&level=ProductImg"
+  },
+  {
+    "_id": 85,
+    "Серия": [
+      "SM2"
+    ],
+    "Артикул": "SM2X1311",
+    "Наименование": "БОКОВОЙ СИГНАЛ. КОНТАКТ, ДЛЯ ДЛЯ SM2R/SM3R 1NO+1NC",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaNuNXpc786UTKUQfBsT9ZvY%3D&level=ProductImg"
+  },
+  {
+    "_id": 86,
+    "Серия": [
+      "SM2"
+    ],
+    "Артикул": "SM2X16024",
+    "Наименование": "НЕЗАВИСИМЫЙ РАСЦЕПИТЕЛЬ ДЛЯ SM2R/SM3R 24V 50/60HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaAS4smGdrUPaqt7qKlCRX0k%3D&level=ProductImg"
+  },
+  {
+    "_id": 87,
+    "Серия": [
+      "SM2"
+    ],
+    "Артикул": "SM2X16110",
+    "Наименование": "НЕЗАВИСИМЫЙ РАСЦЕПИТЕЛЬ ДЛЯ SM2R/SM3R 110V 50/60HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaAS4smGdrUPaqt7qKlCRX0k%3D&level=ProductImg"
+  },
+  {
+    "_id": 88,
+    "Серия": [
+      "SM2"
+    ],
+    "Артикул": "SM2X16230",
+    "Наименование": "НЕЗАВИСИМЫЙ РАСЦЕПИТЕЛЬ ДЛЯ SM2R/SM3R 230V 50/60HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaAS4smGdrUPaqt7qKlCRX0k%3D&level=ProductImg"
+  },
+  {
+    "_id": 89,
+    "Серия": [
+      "SM2"
+    ],
+    "Артикул": "SM2X16400",
+    "Наименование": "НЕЗАВИСИМЫЙ РАСЦЕПИТЕЛЬ ДЛЯ SM2R/SM3R 400V 50/60HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaAS4smGdrUPaqt7qKlCRX0k%3D&level=ProductImg"
+  },
+  {
+    "_id": 90,
+    "Серия": [
+      "SM2"
+    ],
+    "Артикул": "SM2X16440",
+    "Наименование": "НЕЗАВИСИМЫЙ РАСЦЕПИТЕЛЬ ДЛЯ SM2R/SM3R 440V 50/60HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaAS4smGdrUPaqt7qKlCRX0k%3D&level=ProductImg"
+  },
+  {
+    "_id": 91,
+    "Серия": [
+      "SM2"
+    ],
+    "Артикул": "SM2X14230",
+    "Наименование": "РАСЦЕПИТЕЛЬ МИНИМАЛЬНОГО НАПРЯЖЕНИЯ SM2R/SM3R 230V 50/60HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaCPdfv6kKwXpJevM39sQ9l8%3D&level=ProductImg"
+  },
+  {
+    "_id": 92,
+    "Серия": [
+      "SM2"
+    ],
+    "Артикул": "SM2X14400",
+    "Наименование": "РАСЦЕПИТЕЛЬ МИНИМАЛЬНОГО НАПРЯЖЕНИЯ SM2R/SM3R 400V 50/60HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaCPdfv6kKwXpJevM39sQ9l8%3D&level=ProductImg"
+  },
+  {
+    "_id": 93,
+    "Серия": [
+      "SM2"
+    ],
+    "Артикул": "SM2X14440",
+    "Наименование": "РАСЦЕПИТЕЛЬ МИНИМАЛЬНОГО НАПРЯЖЕНИЯ SM2R/SM3R 440V 50/60HZ",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQdDPO7yhcEPdNHYEWzIXsaCPdfv6kKwXpJevM39sQ9l8%3D&level=ProductImg"
+  }
+]

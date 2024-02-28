@@ -1,0 +1,645 @@
+﻿[
+  {
+    "_id": 1,
+    "Серия": [
+      "NXB-63"
+    ],
+    "Артикул": 814991,
+    "Наименование": "Вспомогательный контакт AX-X1 для NXB-63 (R)",
+    "src": "https://chint.ru/upload/iblock/613/btvlhbsyl8z0b05sc9db54iqehyjynhu/AX-X1.jpg"
+  },
+  {
+    "_id": 2,
+    "Серия": [
+      "NXB-63"
+    ],
+    "Артикул": 814990,
+    "Наименование": "Сигнальный контакт AL-X1 для NXB-63 (R)",
+    "src": "https://chint.ru/upload/iblock/b07/j0ru7v57p3f054l2uc20j3zv26vdagic/AL-X1.jpg"
+  },
+  {
+    "_id": 3,
+    "Серия": [
+      "NXB-63"
+    ],
+    "Артикул": 814988,
+    "Наименование": "Независимый расцепитель SHT-X1 AC/DC 24/48В для NXB-63",
+    "src": "https://chint.ru/upload/iblock/ea9/s7mu0wvet7ht1k8ow0vp8zcpyz3rt5ra/SHT-1X.jpg"
+  },
+  {
+    "_id": 4,
+    "Серия": [
+      "NXB-63"
+    ],
+    "Артикул": 814989,
+    "Наименование": "Независимый расцепитель SHT-X1 AC 230/400В для NXB-63",
+    "src": "https://chint.ru/upload/iblock/f19/nfzv95ebex20wga01wwxkqabdqy3fm33/SHT-1X.jpg"
+  },
+  {
+    "_id": 5,
+    "Серия": [
+      "NXB-63"
+    ],
+    "Артикул": 814985,
+    "Наименование": "Расцепитель максимального /минимального напряжения OUVT-X1 для NXB-63 (R)",
+    "src": "https://chint.ru/upload/iblock/97b/53yxc8vrn2fam08k3uesiokkehl372bx/UVT-X3.jpg"
+  },
+  {
+    "_id": 6,
+    "Серия": [
+      "NXB-63"
+    ],
+    "Артикул": 814986,
+    "Наименование": "Расцепитель максимального напряжения OVT-X1 для NXB-63 (R)",
+    "src": "https://chint.ru/upload/iblock/5bd/9lmsx20d4da4t6gownetf88l79bayoh0/UVT-X3.jpg"
+  },
+  {
+    "_id": 7,
+    "Серия": [
+      "NXB-63"
+    ],
+    "Артикул": 814987,
+    "Наименование": "Расцепитель минимального напряжения UVT-X1 для NXB-63 (R)",
+    "src": "https://chint.ru/upload/iblock/5bd/9lmsx20d4da4t6gownetf88l79bayoh0/UVT-X3.jpg"
+  },
+  {
+    "_id": 8,
+    "Серия": [
+      "NB1"
+    ],
+    "Артикул": 184994,
+    "Наименование": "Вспомогательный контакт XF9 для NB1 (R)",
+    "src": "https://chint.ru/upload/iblock/952/cbhfo7hzk6y2cjm3af604h7zh3xifcgw/XF9.jpg"
+  },
+  {
+    "_id": 9,
+    "Серия": [
+      "NB1"
+    ],
+    "Артикул": 184996,
+    "Наименование": "Сигнальный контакт XF9J для NB1 (R)",
+    "src": "https://chint.ru/upload/iblock/844/16wn65a4u2wegsfy5pesq0vp5uqcwj3y/XF9J.jpg"
+  },
+  {
+    "_id": 10,
+    "Серия": [
+      "NB1"
+    ],
+    "Артикул": 184963,
+    "Наименование": "Независимый расцепитель S9 AC/DC 12В для NB1 (R)",
+    "src": "https://chint.ru/upload/iblock/24e/yrxpvq7m9ljjh2t0yex6fo0ksjhqck4i/S9.jpg"
+  },
+  {
+    "_id": 11,
+    "Серия": [
+      "NB1"
+    ],
+    "Артикул": 184985,
+    "Наименование": "Независимый расцепитель S9 AC/DC 24В для NB1 (R)",
+    "src": "https://chint.ru/upload/iblock/24e/yrxpvq7m9ljjh2t0yex6fo0ksjhqck4i/S9.jpg"
+  },
+  {
+    "_id": 12,
+    "Серия": [
+      "NB1"
+    ],
+    "Артикул": 184986,
+    "Наименование": "Независимый расцепитель S9 AC230/400V для NB1 (R)",
+    "src": "https://chint.ru/upload/iblock/24e/yrxpvq7m9ljjh2t0yex6fo0ksjhqck4i/S9.jpg"
+  },
+  {
+    "_id": 13,
+    "Серия": [
+      "NB1"
+    ],
+    "Артикул": 184974,
+    "Наименование": "Расцепитель минимального напряжения V9 для NB1, AC230В( электронный) (R)",
+    "src": "https://chint.ru/upload/iblock/1c8/q7pan73713ofo9bh3c6zr99w09p1rvu9/UVT-X3.jpg"
+  },
+  {
+    "_id": 14,
+    "Серия": [
+      "NXB-125"
+    ],
+    "Артикул": 816991,
+    "Наименование": "Вспомогательный контакт AX-X3 для NXB-125",
+    "src": "https://chint.ru/upload/iblock/10b/scr34ja78itqn8z41l9vsfhjrzfjt3px/AX-X3.jpg"
+  },
+  {
+    "_id": 15,
+    "Серия": [
+      "NXB-125"
+    ],
+    "Артикул": 816990,
+    "Наименование": "Сигнальный вспомогательный контакт AL-X3 для NXB-125",
+    "src": "https://chint.ru/upload/iblock/5ab/ac412qxc8gjh4k8bthw8kcp4vgtjm209/AL-X3.jpg"
+  },
+  {
+    "_id": 16,
+    "Серия": [
+      "NXB-125"
+    ],
+    "Артикул": 816988,
+    "Наименование": "Независимый расцепитель SHT-X3 AC/DC, 24/48В для NXB-125",
+    "src": "https://chint.ru/upload/iblock/e22/h2s6j5zbh4m25e2fxq84hiy5r891j6qs/SHT-X3.jpg"
+  },
+  {
+    "_id": 17,
+    "Серия": [
+      "NXB-125"
+    ],
+    "Артикул": 816989,
+    "Наименование": "Независимый расцепитель SHT-X3 AC, 240/415В для NXB-125",
+    "src": "https://chint.ru/upload/iblock/b22/vups5uyz8e4pio5pruzjgwkvqjnazx0d/SHT-X3.jpg"
+  },
+  {
+    "_id": 18,
+    "Серия": [
+      "NXB-125"
+    ],
+    "Артикул": 816987,
+    "Наименование": "Расцепитель минимального напряжения UVT-X3 для NXB-125",
+    "src": "https://chint.ru/upload/iblock/5c3/6mtgmemtmth1tm8p810ef7ffgo9vww6s/UVT-X3.jpg"
+  },
+  {
+    "_id": 19,
+    "Серия": [
+      "NXB-125"
+    ],
+    "Артикул": 816985,
+    "Наименование": "Расцепитель максимального/минимального напряжения OUVT-X3 для NXB-125",
+    "src": "https://chint.ru/upload/iblock/eb6/rsu0w437izp7v4j1vi5p1egci53epefu/OUVT-X3.jpg"
+  },
+  {
+    "_id": 20,
+    "Серия": [
+      "NXB-125"
+    ],
+    "Артикул": 816986,
+    "Наименование": "Расцепитель максимального напряжения OVT-X3 для NXB-125",
+    "src": "https://chint.ru/upload/iblock/203/vkd16njtndptepvegik4qk3pbwb2d7yh/OVT-X3.jpg"
+  },
+  {
+    "_id": 21,
+    "Серия": [
+      "DZ158"
+    ],
+    "Артикул": 158999,
+    "Наименование": "Вспомогательный контакт AX-1 для DZ158 (R)",
+    "src": "https://chint.ru/upload/iblock/c54/zz9hul70emetela9p3bi27owwcwzuov3/AX-1.jpg"
+  },
+  {
+    "_id": 22,
+    "Серия": [
+      "1П-PIN-Chint"
+    ],
+    "Артикул": 811000,
+    "Наименование": "Шина соединительная типа PIN 1P , 63А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/7bf/xj1mgai8zdomk6ozl6pc0j9lx13iajhd/PIN.jpg"
+  },
+  {
+    "_id": 23,
+    "Серия": [
+      "2П-PIN-Chint"
+    ],
+    "Артикул": 811001,
+    "Наименование": "Шина соединительная типа PIN 2P , 63А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/7bf/xj1mgai8zdomk6ozl6pc0j9lx13iajhd/PIN.jpg"
+  },
+  {
+    "_id": 24,
+    "Серия": [
+      "3П-PIN-Chint"
+    ],
+    "Артикул": 811002,
+    "Наименование": "Шина соединительная типа PIN 3P , 63А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/7bf/xj1mgai8zdomk6ozl6pc0j9lx13iajhd/PIN.jpg"
+  },
+  {
+    "_id": 25,
+    "Серия": [
+      "4П-PIN-Chint"
+    ],
+    "Артикул": 811003,
+    "Наименование": "Шина соединительная типа PIN 4P , 63А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/7bf/xj1mgai8zdomk6ozl6pc0j9lx13iajhd/PIN.jpg"
+  },
+  {
+    "_id": 26,
+    "Серия": [
+      "1П-PIN-Chint"
+    ],
+    "Артикул": 811004,
+    "Наименование": "Шина соединительная типа PIN 1P , 100А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/7bf/xj1mgai8zdomk6ozl6pc0j9lx13iajhd/PIN.jpg"
+  },
+  {
+    "_id": 27,
+    "Серия": [
+      "2П-PIN-Chint"
+    ],
+    "Артикул": 811005,
+    "Наименование": "Шина соединительная типа PIN 2P , 100А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/7bf/xj1mgai8zdomk6ozl6pc0j9lx13iajhd/PIN.jpg"
+  },
+  {
+    "_id": 28,
+    "Серия": [
+      "3П-PIN-Chint"
+    ],
+    "Артикул": 811006,
+    "Наименование": "Шина соединительная типа PIN 3P , 100А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/7bf/xj1mgai8zdomk6ozl6pc0j9lx13iajhd/PIN.jpg"
+  },
+  {
+    "_id": 29,
+    "Серия": [
+      "4П-PIN-Chint"
+    ],
+    "Артикул": 811007,
+    "Наименование": "Шина соединительная типа PIN 4P , 100А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/7bf/xj1mgai8zdomk6ozl6pc0j9lx13iajhd/PIN.jpg"
+  },
+  {
+    "_id": 30,
+    "Серия": [
+      "1П-FORK-Chint"
+    ],
+    "Артикул": 811008,
+    "Наименование": "Шина соединительная типа FORK 1P , 63А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/101/vr6lk42d5tve3xvr1grjd5r0n9sinx3s/FORK.jpg"
+  },
+  {
+    "_id": 31,
+    "Серия": [
+      "2П-FORK-Chint"
+    ],
+    "Артикул": 811009,
+    "Наименование": "Шина соединительная типа FORK 2P , 63А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/101/vr6lk42d5tve3xvr1grjd5r0n9sinx3s/FORK.jpg"
+  },
+  {
+    "_id": 32,
+    "Серия": [
+      "3П-FORK-Chint"
+    ],
+    "Артикул": 811010,
+    "Наименование": "Шина соединительная типа FORK 3P , 63А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/101/vr6lk42d5tve3xvr1grjd5r0n9sinx3s/FORK.jpg"
+  },
+  {
+    "_id": 33,
+    "Серия": [
+      "4П-FORK-Chint"
+    ],
+    "Артикул": 811011,
+    "Наименование": "Шина соединительная типа FORK 4P , 63А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/101/vr6lk42d5tve3xvr1grjd5r0n9sinx3s/FORK.jpg"
+  },
+  {
+    "_id": 34,
+    "Серия": [
+      "1П-FORK-Chint"
+    ],
+    "Артикул": 811012,
+    "Наименование": "Шина соединительная типа FORK 1P , 100А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/101/vr6lk42d5tve3xvr1grjd5r0n9sinx3s/FORK.jpg"
+  },
+  {
+    "_id": 35,
+    "Серия": [
+      "2П-FORK-Chint"
+    ],
+    "Артикул": 811013,
+    "Наименование": "Шина соединительная типа FORK 2P , 100А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/101/vr6lk42d5tve3xvr1grjd5r0n9sinx3s/FORK.jpg"
+  },
+  {
+    "_id": 36,
+    "Серия": [
+      "3П-FORK-Chint"
+    ],
+    "Артикул": 811014,
+    "Наименование": "Шина соединительная типа FORK 3P , 100А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/101/vr6lk42d5tve3xvr1grjd5r0n9sinx3s/FORK.jpg"
+  },
+  {
+    "_id": 37,
+    "Серия": [
+      "4П-FORK-Chint"
+    ],
+    "Артикул": 811015,
+    "Наименование": "Шина соединительная типа FORK 4P , 100А, L=1000мм (R)",
+    "src": "https://chint.ru/upload/iblock/101/vr6lk42d5tve3xvr1grjd5r0n9sinx3s/FORK.jpg"
+  },
+  {
+    "_id": 38,
+    "Серия": [
+      "P1MB"
+    ],
+    "Артикул": "P1X1011",
+    "Наименование": "Вспомогательный контакт для P1MB…",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQC3c4dsa5uuLYXc1NaOVCHh7VPAJMExHK0sM%2BMZz02Do%3D&level=ProductImg"
+  },
+  {
+    "_id": 39,
+    "Серия": [
+      "P1MB"
+    ],
+    "Артикул": "P1X1311",
+    "Наименование": "Сигнальный контакт для P1MB…",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQBEmlCohtHTgkQlvxi0CIiDGZoAYBzH3dl%2BHYEdIpRlM%3D&level=ProductImg"
+  },
+  {
+    "_id": 40,
+    "Серия": [
+      "P1MB"
+    ],
+    "Артикул": "P1X16230",
+    "Наименование": "Независимый расцепитель для P1MB…",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQC3c4dsa5uuLYXc1NaOVCHmkLmMTpkOvPRj%2FenNrzeNw%3D&level=ProductImg"
+  },
+  {
+    "_id": 41,
+    "Серия": [
+      "P1MB"
+    ],
+    "Артикул": "P1X14230",
+    "Наименование": "Расцепитель минимального напряжения для P1MB…",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQC3c4dsa5uuLYXc1NaOVCHlOncelfx0KZjpatgre6wI8%3D&level=ProductImg"
+  },
+  {
+    "_id": 42,
+    "Серия": [
+      "P1MBU"
+    ],
+    "Артикул": "P1X1011UH",
+    "Наименование": "Вспомогательный контакт для P1MBU…",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQC3c4dsa5uuLYXc1NaOVCHiZn10v5oclgpGp%2F7z3S%2FPw%3D&level=ProductImg"
+  },
+  {
+    "_id": 43,
+    "Серия": [
+      "P2MB"
+    ],
+    "Артикул": "P2X1011",
+    "Наименование": "Вспомогательный контакт",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQC3c4dsa5uuLYXc1NaOVCHp6D3D587REZPwbZLsx5kyY%3D&level=ProductImg"
+  },
+  {
+    "_id": 44,
+    "Серия": [
+      "P2MB"
+    ],
+    "Артикул": "P2X1311",
+    "Наименование": "Сигнальный контакт",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQC3c4dsa5uuLYXc1NaOVCHr0tJvJGqOWoh5AY1e44nbk%3D&level=ProductImg"
+  },
+  {
+    "_id": 45,
+    "Серия": [
+      "P2MB"
+    ],
+    "Артикул": "P2X16230",
+    "Наименование": "Независимый расцепитель",
+    "src": "https://catalogue.lovatoelectric.com/gl_ru/Image/GetProductImage?image=TDB2NHQ9Mm9jdGxfMjEyMthb3LhoVG1CVRa3b78NNi8T6T2GfP49onni4gLYSTSQBEmlCohtHTgkQlvxi0CIiIlA818SWlLGXG5bcFINch4%3D&level=ProductImg"
+  },
+  {
+    "_id": 46,
+    "Серия": [
+      "ВА-101"
+    ],
+    "Артикул": "18100DEK",
+    "Наименование": "Дополнительный контакт ДК-101",
+    "src": "https://www.dek.ru/upload/catalog/products/329b57d3ee20e5cfd6b9b7c69d0197ec.jpg"
+  },
+  {
+    "_id": 47,
+    "Серия": [
+      "ВА-101"
+    ],
+    "Артикул": "18101DEK",
+    "Наименование": "Сигнальный контакт СК-101",
+    "src": "https://www.dek.ru/upload/catalog/products/6a0a6d5ffbef64077a9ce312ebe70a61.jpg"
+  },
+  {
+    "_id": 48,
+    "Серия": [
+      "ВА-101"
+    ],
+    "Артикул": "18102DEK",
+    "Наименование": "Расцепитель независисмый c дополнительным контактом 220В",
+    "src": "https://www.dek.ru/upload/catalog/products/210e9ea309514bd1e8b771cc59dd3ad9.jpg"
+  },
+  {
+    "_id": 49,
+    "Серия": [
+      "ВА-101"
+    ],
+    "Артикул": "18103DEK",
+    "Наименование": "Расцепитель независисмый c дополнительным контактом 24В, 48В AC_DC",
+    "src": "https://www.dek.ru/upload/catalog/products/210e9ea309514bd1e8b771cc59dd3ad9.jpg"
+  },
+  {
+    "_id": 50,
+    "Серия": [
+      "ВА-101"
+    ],
+    "Артикул": "18104DEK",
+    "Наименование": "Расцепитель максимального напряжения РМК-101",
+    "src": "https://www.dek.ru/upload/catalog/products/cc73b47b6a53000adc1c4b2d8507fa37.jpg"
+  },
+  {
+    "_id": 51,
+    "Серия": [
+      "ВА-101"
+    ],
+    "Артикул": "18105DEK",
+    "Наименование": "Расцепитель минимального напряжения РМН-101",
+    "src": "https://www.dek.ru/upload/catalog/products/0d441f898e4c8cb4fabd8688ce18951a.jpg"
+  },
+  {
+    "_id": 52,
+    "Серия": [
+      "ВА-101"
+    ],
+    "Артикул": "18106DEK",
+    "Наименование": "Расцепитель максимального-минимального напряжения РММ-101",
+    "src": "https://www.dek.ru/upload/catalog/products/fe25386d5e32a0a72a3ef61008ca519e.jpg"
+  },
+  {
+    "_id": 53,
+    "Серия": [
+      "ВА-105"
+    ],
+    "Артикул": "13303DEK",
+    "Наименование": "Контакт дополнительный ДК-105",
+    "src": "https://www.dek.ru/upload/catalog/products/3171f10748656827f30939ebb1e53d33.jpg"
+  },
+  {
+    "_id": 54,
+    "Серия": [
+      "ВА-105"
+    ],
+    "Артикул": "13304DEK",
+    "Наименование": "Контакт сигнальный СК-105",
+    "src": "https://www.dek.ru/upload/catalog/products/27b75ef8ac45aea47c5b77aa15ad4d45.jpg"
+  },
+  {
+    "_id": 55,
+    "Серия": [
+      "ВА-105"
+    ],
+    "Артикул": "13302DEK",
+    "Наименование": "Расцепитель независимый НД-105-110-415В",
+    "src": "https://www.dek.ru/upload/catalog/products/efc56e496b9504cdae25d5a4b06c99a4.jpg"
+  },
+  {
+    "_id": 56,
+    "Серия": [
+      "ВА-105"
+    ],
+    "Артикул": "13301DEK",
+    "Наименование": "Расцепитель независимый НД-105-48В",
+    "src": "https://www.dek.ru/upload/catalog/products/efc56e496b9504cdae25d5a4b06c99a4.jpg"
+  },
+  {
+    "_id": 57,
+    "Серия": [
+      "ВА-105"
+    ],
+    "Артикул": "13300DEK",
+    "Наименование": "Расцепитель независимый НД-105-12-24В",
+    "src": "https://www.dek.ru/upload/catalog/products/efc56e496b9504cdae25d5a4b06c99a4.jpg"
+  },
+  {
+    "_id": 58,
+    "Серия": [
+      "ВА47-29",
+      "ВА47-100"
+    ],
+    "Артикул": 318452,
+    "Наименование": "Модуль свободных контактов ВА47-МСК",
+    "src": "https://keaz.ru/f/32323/msk.jpg"
+  },
+  {
+    "_id": 59,
+    "Серия": [
+      "ВА47-29",
+      "ВА47-100"
+    ],
+    "Артикул": 318453,
+    "Наименование": "Модуль свободных и сигнальных контактов ВА47-МССК",
+    "src": "https://keaz.ru/f/32324/mssk.jpg"
+  },
+  {
+    "_id": 60,
+    "Серия": [
+      "ВА47-29",
+      "ВА47-100"
+    ],
+    "Артикул": 318454,
+    "Наименование": "Независимый расцепитель ВА47-НР230",
+    "src": "https://keaz.ru/f/32325/nr.jpg"
+  },
+  {
+    "_id": 61,
+    "Серия": [
+      "ВА47-29",
+      "ВА47-100"
+    ],
+    "Артикул": 318455,
+    "Наименование": "Расцепитель минимального максимального напряжения ВА47-РММН",
+    "src": "https://keaz.ru/f/32322/rmmn.jpg"
+  },
+  {
+    "_id": 62,
+    "Серия": [
+      "ВА47-29"
+    ],
+    "Артикул": 339697,
+    "Наименование": "Заглушка для пломбировки ВА47-29",
+    "src": "https://keaz.ru/f/42866/339697-zaglushka-va47-29-kopiya.jpg"
+  },
+  {
+    "_id": 63,
+    "Серия": [
+      "ВМ63"
+    ],
+    "Артикул": 249189,
+    "Наименование": "Модуль свободных контактов OptiDin BM63-МСК 1",
+    "src": "https://keaz.ru/f/33149/msk1.png"
+  },
+  {
+    "_id": 64,
+    "Серия": [
+      "ВМ63"
+    ],
+    "Артикул": 249197,
+    "Наименование": "Модуль свободных контактов OptiDin BM63-МСК 2",
+    "src": "https://keaz.ru/f/11333/optidin-vm63-msk-2.png"
+  },
+  {
+    "_id": 65,
+    "Серия": [
+      "ВМ63"
+    ],
+    "Артикул": 249158,
+    "Наименование": "Модуль свободных и сигнальных контактов OptiDin BM63-МССК 2",
+    "src": "https://keaz.ru/f/11276/mssk.5732.png"
+  },
+  {
+    "_id": 66,
+    "Серия": [
+      "ВМ63"
+    ],
+    "Артикул": 249184,
+    "Наименование": "Независимый расцепитель OptiDin BM63-НР230",
+    "src": "https://keaz.ru/f/11279/nr-230.png"
+  },
+  {
+    "_id": 67,
+    "Серия": [
+      "ВМ63"
+    ],
+    "Артикул": 249177,
+    "Наименование": "Независимый расцепитель OptiDin BM63-НР24",
+    "src": "https://keaz.ru/f/11280/nr-24.png"
+  },
+  {
+    "_id": 68,
+    "Серия": [
+      "ВМ63"
+    ],
+    "Артикул": 333065,
+    "Наименование": "Расцепитель минимального и максимального напряжения OptiDin ВМ63-РММН",
+    "src": "https://keaz.ru/f/36234/rmmn.jpg"
+  },
+  {
+    "_id": 69,
+    "Серия": [
+      "ВМ63"
+    ],
+    "Артикул": 113541,
+    "Наименование": "Устройство для запирания ручки OptiDin-УХЛ3",
+    "src": "https://keaz.ru/f/299/fix-1.png"
+  },
+  {
+    "_id": 70,
+    "Серия": [
+      "ВА47-100"
+    ],
+    "Артикул": 339696,
+    "Наименование": "Заглушка для пломбировки ВА47-100",
+    "src": "https://keaz.ru/f/42869/339696-zaglushka-va47-100-kopiya.jpg"
+  },
+  {
+    "_id": 71,
+    "Серия": [
+      "ВМ125"
+    ],
+    "Артикул": 329843,
+    "Наименование": "Модуль свободных контактов OptiDin BM125-MCK 2",
+    "src": "https://keaz.ru/f/39077/foto-msk.png"
+  }
+]
