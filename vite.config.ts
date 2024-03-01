@@ -5,7 +5,7 @@ import { VitePWA } from 'vite-plugin-pwa';
 const vitePWA = VitePWA({
   registerType: 'autoUpdate',
   workbox: {
-    globPatterns: ['**/*.{ico,png,svg,png,jpg,jpeg}'],
+    globPatterns: ['**/*.{ico,png,svg,jpg,jpeg}'],
   },
   manifest: {
     name: 'Подбор оборудования',

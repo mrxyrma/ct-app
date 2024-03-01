@@ -21,7 +21,7 @@ ref,
 
 <template>
   <main>
-    <ul class="grid gap-5 p-5 cards max-w-screen-xl mx-auto">
+    <ul class="grid gap-5 cards">
       <table-card
         v-for="card in cards"
         :key="card._id"
