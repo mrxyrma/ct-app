@@ -1,7 +1,23 @@
+<script setup lang="ts">
+  import { ref } from 'vue';
+  import { useRoute } from 'vue-router';
+
+  const route = ref(useRoute());
+</script>
+
 <template>
-  <header class="bg-sky-700 min-h-10 flex justify-center items-center max-sm:min-h-7">
-    <h1 class="font-bold text-lg text-gray-50 inline max-sm:text-base">
-      Таблицы для подбора оборудования
-    </h1>
+  <header class="bg-sky-700 font-bold text-lg text-gray-50 sticky top-0 z-10">
+    <div class="max-w-screen-2xl px-5 mx-auto min-h-10 flex justify-center items-center sm:justify-start">
+      <h1 v-if="route.fullPath === '/'">
+        Подбор оборудования
+      </h1>
+
+      <router-link
+        v-else
+        to="/"
+      >
+        Главная
+      </router-link>
+    </div>
   </header>
 </template>
