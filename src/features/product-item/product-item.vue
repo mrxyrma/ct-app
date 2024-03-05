@@ -1,14 +1,20 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+  type Props = {
+    orderNum: string | number;
+    name: string;
+  };
+
+  defineProps<Props>();
+</script>
 
 <template>
   <li class="py-1.5">
     <router-link
-      to="#"
+      :to="{ name: 'productPage', params: { product: String(orderNum) } }"
       target="_blank"
       class="h-full"
     >
-      592861 - Индикатор ND16-22D/2 белый AC/DC380В Индикатор ND16-22D/2 белый AC/DC380В Индикатор ND16-22D/2 белый
-      AC/DC380В(R)(CHINT)
+      {{ orderNum }} - {{ name }}
     </router-link>
   </li>
 </template>

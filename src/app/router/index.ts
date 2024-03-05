@@ -1,8 +1,5 @@
 import { MainPage } from 'src/pages/main-page';
-import {
- createRouter,
-createWebHashHistory,
-} from 'vue-router';
+import { createRouter, createWebHashHistory } from 'vue-router';
 
 const routes = [
   {
@@ -16,6 +13,7 @@ const routes = [
   {
     path: '/:category/:product',
     component: () => import('src/pages/product-page/ui/product-page.vue'),
+    name: 'productPage',
   },
 ];
 

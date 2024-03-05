@@ -1,0 +1,1 @@
+<template>Идёт загрузка</template>
