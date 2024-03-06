@@ -12,4 +12,5 @@ export type Product = {
   Наименование: string;
   Серия: string;
   src: string;
+  Примечание: string;
 };

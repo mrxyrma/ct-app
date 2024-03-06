@@ -1,2 +1,2 @@
 export * from './search-items';
-export * from './filter-form';
+export * from '../widgets/filter-form/ui';

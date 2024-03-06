@@ -1,5 +1,6 @@
 <script setup lang="ts">
-  import { FilterForm, SearchItems } from 'src/features';
+  import { SearchItems } from 'src/features';
+  import { FilterForm } from 'src/widgets/filter-form';
   import ProductItem from 'src/features/product-item/product-item.vue';
   import { useCategoryCardsStore } from 'src/shared/stores/category-cards-store.ts';
   import { useProductsStore } from 'src/shared/stores/products-store.ts';
@@ -8,7 +9,7 @@
   import { useRoute } from 'vue-router';
 
   const route = useRoute();
-  const category = computed(() => route.params.category);
+  const category = computed(() => route.params.category as string);
 
   const categoryStore = useCategoryCardsStore();
   const categoryTitle = computed(() => {
@@ -17,15 +18,19 @@
     return title;
   });
 
-  const productStore = useProductsStore();
+  const productsStore = useProductsStore();
 
-  watch(category, () => productStore.fetchProducts(category.value));
-  onMounted(() => productStore.fetchProducts(category.value));
+  watch(category, () => productsStore.fetchProducts(category.value));
+  onMounted(() => {
+    if (!productsStore.products.length) {
+      productsStore.fetchProducts(category.value);
+    }
+  });
 </script>
 
 <template>
   <main class="max-w-screen-2xl mx-auto p-5">
-    <app-spinner v-if="productStore.loading" />
+    <app-spinner v-if="productsStore.loading" />
 
     <div v-else>
       <search-items />
@@ -38,7 +43,7 @@
         <ul>
           <h3 class="text-xl font-semibold">Возможные варианты:</h3>
           <product-item
-            v-for="product in productStore.products"
+            v-for="product in productsStore.visibleProducts"
             :key="product['_id']"
             :order-num="product['Артикул']"
             :name="product['Наименование']"

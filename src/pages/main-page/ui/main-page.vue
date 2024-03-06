@@ -2,10 +2,13 @@
   import { TableCard } from 'src/entities/table-card';
   import { useCategoryCardsStore } from 'src/shared/stores/category-cards-store.ts';
   import { computed } from 'vue';
+  import { useProductsStore } from 'src/shared/stores/products-store.ts';
 
   const store = useCategoryCardsStore();
   const cards = computed(() => store.cards);
   document.title = 'Подбор оборудования';
+
+  const productsStore = useProductsStore();
 </script>
 
 <template>
@@ -17,6 +20,7 @@
         :title="card.title"
         :src="card.src"
         :link="card.link"
+        @click="productsStore.fetchProducts(card.link)"
       />
     </ul>
   </main>
