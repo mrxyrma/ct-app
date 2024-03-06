@@ -20,10 +20,15 @@ export const useProductsStore = defineStore('productsStore', () => {
     loading.value = false;
   }
 
+  function setVisibleProducts(data: Product[]) {
+    visibleProducts.value = data;
+  }
+
   return {
     products,
     visibleProducts,
     loading,
     fetchProducts,
+    setVisibleProducts,
   };
 });

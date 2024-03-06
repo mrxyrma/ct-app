@@ -1,12 +1,14 @@
 <script setup lang="ts">
-  import { SearchItems } from 'src/features';
+  import { vAutoAnimate } from '@formkit/auto-animate';
+  import { SearchItems } from 'src/features/search-items';
   import { FilterForm } from 'src/widgets/filter-form';
   import ProductItem from 'src/features/product-item/product-item.vue';
   import { useCategoryCardsStore } from 'src/shared/stores/category-cards-store.ts';
   import { useProductsStore } from 'src/shared/stores/products-store.ts';
   import { AppSpinner } from 'src/shared/ui';
-  import { computed, onMounted, watch } from 'vue';
+  import { computed, onMounted, onUnmounted, watch } from 'vue';
   import { useRoute } from 'vue-router';
+  import { useSearchStore } from 'src/shared/stores/search-store.ts';
 
   const route = useRoute();
   const category = computed(() => route.params.category as string);
@@ -19,13 +21,20 @@
   });
 
   const productsStore = useProductsStore();
+  const searchStore = useSearchStore();
 
-  watch(category, () => productsStore.fetchProducts(category.value));
+  watch(category, () => {
+    productsStore.fetchProducts(category.value);
+    searchStore.setSearchValue('');
+  });
+
   onMounted(() => {
     if (!productsStore.products.length) {
       productsStore.fetchProducts(category.value);
     }
   });
+
+  onUnmounted(() => searchStore.setSearchValue(''));
 </script>
 
 <template>
@@ -40,15 +49,28 @@
       <div class="flex flex-col gap-5 mt-3 sm:flex-row">
         <filter-form />
 
-        <ul>
+        <div>
           <h3 class="text-xl font-semibold">Возможные варианты:</h3>
-          <product-item
-            v-for="product in productsStore.visibleProducts"
-            :key="product['_id']"
-            :order-num="product['Артикул']"
-            :name="product['Наименование']"
-          />
-        </ul>
+          <p
+            v-if="!productsStore.visibleProducts.length"
+            class="text-center mt-3"
+          >
+            Изделий с выбранными характеристиками нет
+            <br />
+            Попробуйте изменить критерии поиска
+          </p>
+          <ul
+            v-else
+            v-auto-animate
+          >
+            <product-item
+              v-for="product in productsStore.visibleProducts"
+              :key="product['_id']"
+              :order-num="product['Артикул']"
+              :name="product['Наименование']"
+            />
+          </ul>
+        </div>
       </div>
     </div>
   </main>

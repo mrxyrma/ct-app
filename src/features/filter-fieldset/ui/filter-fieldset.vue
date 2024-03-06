@@ -26,7 +26,7 @@
 </script>
 
 <template>
-  <fieldset class="flex gap-1 flex-wrap">
+  <fieldset class="flex gap-1 flex-wrap place-content-start">
     <legend class="font-semibold">
       {{ fieldsetTitle }}
     </legend>
@@ -34,6 +34,7 @@
       v-for="button in sortedFieldsetButtons"
       :key="button"
       :label="button"
+      :fieldset-title="fieldsetTitle"
     />
   </fieldset>
 </template>

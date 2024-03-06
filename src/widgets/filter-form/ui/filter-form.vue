@@ -21,15 +21,15 @@
 <template>
   <aside class="max-w-full sm:max-w-64 md:max-w-80 lg:max-w-96">
     <h3 class="text-xl font-semibold">Фильтры:</h3>
-    <form class="pl-2 pt-2 flex flex-col gap-2">
+    <form
+      class="pl-2 pt-2 flex flex-col content-start gap-2"
+      @change.prevent
+    >
       <filter-fieldset
         v-for="title in fieldsetTitles"
         :key="title"
         :fieldset-title="title"
       />
-      <button class="w-full self-center max-w-80 rounded-md p-2 text-gray-50 text-lg bg-sky-700 sm:max-w-full">
-        Подобрать
-      </button>
     </form>
   </aside>
 </template>
