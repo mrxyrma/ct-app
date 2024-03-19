@@ -1,7 +1,7 @@
 <script setup lang="ts">
   type Props = {
     orderNum: string | number;
-    name: string;
+    name: string | number;
   };
 
   defineProps<Props>();

@@ -1,11 +1,10 @@
 <script setup lang="ts">
   import { useProductsStore } from 'src/shared/stores/products-store.ts';
-  import type { Product } from 'src/shared/types';
   import { computed } from 'vue';
 
   type Props = {
     label: string | number;
-    fieldsetTitle: keyof Product;
+    fieldsetTitle: string;
   };
 
   const { label, fieldsetTitle } = defineProps<Props>();
@@ -16,11 +15,15 @@
 
 <template>
   <label
-    class="p-1.5 rounded-md has-[:checked]:bg-blue-500 has-[:checked]:text-gray-50"
-    :class="{ 'text-slate-300': isDisabled, 'cursor-pointer': !isDisabled }"
+    class="p-1.5 leading-none rounded-md"
+    :class="{
+      'text-slate-300': isDisabled,
+      'cursor-pointer has-[:checked]:bg-sky-600 has-[:checked]:text-gray-50': !isDisabled,
+    }"
   >
     <input
       type="checkbox"
+      :name="fieldsetTitle"
       :value="String(label)"
       class="appearance-none absolute"
       :disabled="isDisabled"
