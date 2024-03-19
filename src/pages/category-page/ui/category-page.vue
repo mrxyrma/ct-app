@@ -28,7 +28,7 @@
 </script>
 
 <template>
-  <main class="max-w-screen-2xl mx-auto p-5">
+  <main>
     <app-spinner v-if="productsStore.loading" />
 
     <div v-else>

@@ -4,9 +4,9 @@
 </script>
 
 <template>
-  <div class="flex flex-col justify-between">
+  <div class="flex flex-col justify-between h-screen">
     <app-header />
-    <router-view class="flex-grow w-full min-h-screen max-w-screen-xl p-5 mx-auto" />
+    <router-view class="w-full flex-grow max-w-screen-2xl p-5 mx-auto" />
     <app-footer />
   </div>
 </template>

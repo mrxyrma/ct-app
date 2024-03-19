@@ -1,12 +1,56 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+  import AppPlaceholder from 'src/shared/images/placeholder.svg';
+  import { ModalImage } from 'src/entities/modal-image';
+  import { computed, ref } from 'vue';
+
+  type Props = {
+    order_num: string | number;
+    name: string;
+    src: string;
+  };
+
+  const props = defineProps<Props>();
+
+  const isModal = ref(false);
+
+  const src = computed(() => props.src || AppPlaceholder);
+
+  function toggleModal() {
+    isModal.value = !isModal.value;
+  }
+
+  function copyInMemory(text: string) {
+    navigator.clipboard.writeText(text);
+  }
+</script>
 
 <template>
   <li class="flex items-center gap-2">
     <img
-      src="https://chint.ru/upload/iblock/ecc/e2vgqohhx35hvr9mf32qa62t74eoc547/NS2-AU20.jpg"
-      alt="fdfdf"
-      class="w-32 h-32 object-scale-down"
-    >
-    <p><b>ADL06-644</b> - <span>Дополнительный контакт GV2-AN11 1НО+1НЗ (ANDELI)</span></p>
+      :src="src"
+      alt="Фото аксессуара"
+      class="w-32 h-32 object-scale-down cursor-pointer"
+      @click="toggleModal"
+    />
+    <p>
+      <b
+        class="cursor-alias"
+        @click="() => copyInMemory(String(order_num))"
+      >
+        {{ order_num }}
+      </b>
+      -
+      <span
+        class="cursor-alias"
+        @click="() => copyInMemory(name)"
+      >
+        {{ name }}
+      </span>
+    </p>
   </li>
+  <modal-image
+    v-if="isModal"
+    :src="src"
+    @toggle-modal="toggleModal"
+  />
 </template>

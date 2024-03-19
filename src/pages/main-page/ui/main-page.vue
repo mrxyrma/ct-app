@@ -1,10 +1,8 @@
 <script setup lang="ts">
   import { TableCard } from 'src/entities/table-card';
   import { useCategoryCardsStore } from 'src/shared/stores/category-cards-store.ts';
-  import { computed } from 'vue';
 
-  const store = useCategoryCardsStore();
-  const cards = computed(() => store.cards);
+  const categoryCardsStore = useCategoryCardsStore();
   document.title = 'Подбор оборудования';
 </script>
 
@@ -12,7 +10,7 @@
   <main>
     <ul class="grid gap-5 cards">
       <table-card
-        v-for="card in cards"
+        v-for="card in categoryCardsStore.cards"
         :key="card._id"
         :title="card.title"
         :src="card.src"
