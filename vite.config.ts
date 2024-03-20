@@ -4,9 +4,6 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 const vitePWA = VitePWA({
   registerType: 'autoUpdate',
-  workbox: {
-    globPatterns: ['**/*.{ico,png,svg,jpg,jpeg}'],
-  },
   manifest: {
     name: 'Подбор оборудования',
     short_name: 'Таблицы',
@@ -14,12 +11,12 @@ const vitePWA = VitePWA({
     lang: 'ru',
     icons: [
       {
-        src: 'assets/icons/android-chrome-192x192.png',
+        src: '/ct-app/assets/icons/android-chrome-192x192.png',
         sizes: '192x192',
         type: 'image/png',
       },
       {
-        src: 'assets/icons/android-chrome-512x512.png',
+        src: '/ct-app/assets/icons/android-chrome-512x512.png',
         sizes: '512x512',
         type: 'image/png',
       },

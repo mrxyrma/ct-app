@@ -1,259 +1,259 @@
 ﻿[
  {
   "_id": 1,
-  "Серия": "GV2",
+  "Серия": "GV2-AN",
   "Артикул": "ADL06-644",
   "Наименование": "Дополнительный контакт GV2-AN11 1НО+1НЗ (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/ecc\/e2vgqohhx35hvr9mf32qa62t74eoc547\/NS2-AU20.jpg"
  },
  {
   "_id": 2,
-  "Серия": "GV2",
+  "Серия": "GV2-AN",
   "Артикул": "ADL06-645",
   "Наименование": "Дополнительный контакт GV2-AN20 2НО (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/ecc\/e2vgqohhx35hvr9mf32qa62t74eoc547\/NS2-AU20.jpg"
  },
  {
   "_id": 3,
-  "Серия": "GV3",
+  "Серия": "GV3-A",
   "Артикул": "ADL06-646",
   "Наименование": "Дополнительный контакт GV3-A01 1НО+1НЗ (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/ecc\/e2vgqohhx35hvr9mf32qa62t74eoc547\/NS2-AU20.jpg"
  },
  {
   "_id": 4,
-  "Серия": "GV3",
+  "Серия": "GV3-A",
   "Артикул": "ADL06-647",
   "Наименование": "Дополнительный контакт GV3-A02 2НО (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/ecc\/e2vgqohhx35hvr9mf32qa62t74eoc547\/NS2-AU20.jpg"
  },
  {
   "_id": 5,
-  "Серия": "GV2",
+  "Серия": "GV2-AE",
   "Артикул": "ADL06-648",
   "Наименование": "Дополнительный контакт поперечный GV2-AE11 1НО+1НЗ (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/246\/jqid91t2ezg0ngt5cwkebg0s1p4v1chn\/NS2-AE11.jpg"
  },
  {
   "_id": 6,
-  "Серия": "GV2",
+  "Серия": "GV2-AE",
   "Артикул": "ADL06-649",
   "Наименование": "Дополнительный контакт поперечный GV2-AE20 2НО (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/459\/ckmibw08c7e8gtydp0urkzvtuiu60bdm\/NS2-AE20.jpg"
  },
  {
   "_id": 7,
-  "Серия": "GV2",
+  "Серия": "GV2-AN",
   "Артикул": "ADL06-640",
   "Наименование": "Аварийный контакт GV2-1010 2НО (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/d58\/q589m5dn80y4abtvp9ovib9je5hpqjz4\/NS2-FA.jpg"
  },
  {
   "_id": 8,
-  "Серия": "GV2",
+  "Серия": "GV2-AN",
   "Артикул": "ADL06-641",
   "Наименование": "Аварийный контакт GV2-1001 1НО+1НЗ (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/d58\/q589m5dn80y4abtvp9ovib9je5hpqjz4\/NS2-FA.jpg"
  },
  {
   "_id": 9,
-  "Серия": "GV2",
+  "Серия": "GV2-AN",
   "Артикул": "ADL06-642",
   "Наименование": "Аварийный контакт GV2-0110 1НЗ+1НО (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/d58\/q589m5dn80y4abtvp9ovib9je5hpqjz4\/NS2-FA.jpg"
  },
  {
   "_id": 10,
-  "Серия": "GV2",
+  "Серия": "GV2-AN",
   "Артикул": "ADL06-643",
   "Наименование": "Аварийный контакт GV2-0101 2НЗ (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/d58\/q589m5dn80y4abtvp9ovib9je5hpqjz4\/NS2-FA.jpg"
  },
  {
   "_id": 11,
-  "Серия": "GV2",
+  "Серия": "РМ2",
   "Артикул": "ADL06-651",
   "Наименование": "Расцепитель минимального напряжения РМ2 Ue 110В (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/a63\/y09yah9xv7w57nl0j1jw1yfue9q4it4g\/UV.jpg"
  },
  {
   "_id": 12,
-  "Серия": "GV2",
+  "Серия": "РМ2",
   "Артикул": "ADL06-652",
   "Наименование": "Расцепитель минимального напряжения РМ2 Ue 230В (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/a63\/y09yah9xv7w57nl0j1jw1yfue9q4it4g\/UV.jpg"
  },
  {
   "_id": 13,
-  "Серия": "GV2",
+  "Серия": "РМ2",
   "Артикул": "ADL06-653",
   "Наименование": "Расцепитель минимального напряжения РМ2 Ue 400В (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/a63\/y09yah9xv7w57nl0j1jw1yfue9q4it4g\/UV.jpg"
  },
  {
   "_id": 14,
-  "Серия": "GV2",
+  "Серия": "РН2",
   "Артикул": "ADL06-654",
   "Наименование": "Расцепитель независимый РН2 Ue 110В (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/dac\/ax9qw6u0q7xugfs8etcoxwabrncvkkju\/NS2-SH.jpg"
  },
  {
   "_id": 15,
-  "Серия": "GV2",
+  "Серия": "РН2",
   "Артикул": "ADL06-655",
   "Наименование": "Расцепитель независимый РН2 Ue 230В (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/dac\/ax9qw6u0q7xugfs8etcoxwabrncvkkju\/NS2-SH.jpg"
  },
  {
   "_id": 16,
-  "Серия": "GV2",
+  "Серия": "РН2",
   "Артикул": "ADL06-656",
   "Наименование": "Расцепитель независимый РН2 Ue 400В (ANDELI)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/dac\/ax9qw6u0q7xugfs8etcoxwabrncvkkju\/NS2-SH.jpg"
  },
  {
   "_id": 17,
-  "Серия": "NS2-25, NS2-25X",
+  "Серия": "25-AE",
   "Артикул": 495968,
   "Наименование": "Доп.контакт поперечный NS2-AE11 1НО+1НЗ (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/246\/jqid91t2ezg0ngt5cwkebg0s1p4v1chn\/NS2-AE11.jpg"
  },
  {
   "_id": 18,
-  "Серия": "NS2-25, NS2-25X",
+  "Серия": "25-AE",
   "Артикул": 495948,
   "Наименование": "Доп.контакт поперечный NS2-AE20 2НО (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/459\/ckmibw08c7e8gtydp0urkzvtuiu60bdm\/NS2-AE20.jpg"
  },
  {
   "_id": 19,
-  "Серия": "NS2-25, NS2-25X",
+  "Серия": "25-AU",
   "Артикул": 495996,
   "Наименование": "Доп.контакт боковой NS2-AU11 для NS2-25 1НО+1НЗ (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/390\/h1a1u4h1il3fjd5oxqqkshv93dhns9yj\/NS2-AU11.jpg"
  },
  {
   "_id": 20,
-  "Серия": "NS2-25, NS2-25X",
+  "Серия": "25-AU",
   "Артикул": 495951,
   "Наименование": "Доп.контакт боковой NS2-AU20 для NS2-25 2НО (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/ecc\/e2vgqohhx35hvr9mf32qa62t74eoc547\/NS2-AU20.jpg"
  },
  {
   "_id": 21,
-  "Серия": "NS2-80",
+  "Серия": "80-AU",
   "Артикул": 495874,
   "Наименование": "Доп.контакт боковой NS2-AU11 для NS2-80 (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/722\/oj5hh152w1crfh4tyaai0g0ghibquk30\/NS2-AU11.jpg"
  },
  {
   "_id": 22,
-  "Серия": "NS2-80",
+  "Серия": "80-AU",
   "Артикул": 495873,
   "Наименование": "Доп.контакт боковой NS2-AU20 2НО для NS2-80(R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/977\/x6g9qy70vjx9kibgdiar228k7hxyigdf\/NS2-AU20.jpg"
  },
  {
   "_id": 23,
-  "Серия": "NS2-80B",
+  "Серия": "80B-AU",
   "Артикул": 495972,
   "Наименование": "Доп.контакт боковой NS2-AU11 для NS2-80B (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/722\/oj5hh152w1crfh4tyaai0g0ghibquk30\/NS2-AU11.jpg"
  },
  {
   "_id": 24,
-  "Серия": "NS2-80B",
+  "Серия": "80B-AU",
   "Артикул": 495942,
   "Наименование": "Доп.контакт боковой NS2-AU20 для NS2-80B (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/977\/x6g9qy70vjx9kibgdiar228k7hxyigdf\/NS2-AU20.jpg"
  },
  {
   "_id": 25,
-  "Серия": "NS2-25, NS2-25X, NS2-80",
+  "Серия": "25-SH",
   "Артикул": 495974,
   "Наименование": "Расцепитель независимый NS2-SH110 (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/dac\/ax9qw6u0q7xugfs8etcoxwabrncvkkju\/NS2-SH.jpg"
  },
  {
   "_id": 26,
-  "Серия": "NS2-25, NS2-25X, NS2-80",
+  "Серия": "25-SH",
   "Артикул": 495977,
   "Наименование": "Расцепитель независимый NS2-SH220 (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/dac\/ax9qw6u0q7xugfs8etcoxwabrncvkkju\/NS2-SH.jpg"
  },
  {
   "_id": 27,
-  "Серия": "NS2-25, NS2-25X, NS2-80",
+  "Серия": "25-SH",
   "Артикул": 495980,
   "Наименование": "Расцепитель независимый NS2-SH380 (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/dac\/ax9qw6u0q7xugfs8etcoxwabrncvkkju\/NS2-SH.jpg"
  },
  {
   "_id": 28,
-  "Серия": "NS2-25, NS2-25X, NS2-80",
+  "Серия": "25-UV",
   "Артикул": 495908,
   "Наименование": "Расцепитель миним. напряжения NS2-UВ110 (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/a63\/y09yah9xv7w57nl0j1jw1yfue9q4it4g\/UV.jpg"
  },
  {
   "_id": 29,
-  "Серия": "NS2-25, NS2-25X, NS2-80",
+  "Серия": "25-UV",
   "Артикул": 495907,
   "Наименование": "Расцепитель миним. напряжения NS2-UV220 (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/a63\/y09yah9xv7w57nl0j1jw1yfue9q4it4g\/UV.jpg"
  },
  {
   "_id": 30,
-  "Серия": "NS2-25, NS2-25X, NS2-80",
+  "Серия": "25-UV",
   "Артикул": 495906,
   "Наименование": "Расцепитель миним. напряжения NS2-UВ380 (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/a63\/y09yah9xv7w57nl0j1jw1yfue9q4it4g\/UV.jpg"
  },
  {
   "_id": 31,
-  "Серия": "NS2-25, NS2-25X, NS2-80",
+  "Серия": "25-AU\/AX",
   "Артикул": 495962,
   "Наименование": "Аварийно-Всп.контакты NS2-FA1010 (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/d58\/q589m5dn80y4abtvp9ovib9je5hpqjz4\/NS2-FA.jpg"
  },
  {
   "_id": 32,
-  "Серия": "NS2-25, NS2-25X, NS2-80",
+  "Серия": "25-AU\/AX",
   "Артикул": 495959,
   "Наименование": "Аварийно-Всп.контакты NS2-FA0101 (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/d58\/q589m5dn80y4abtvp9ovib9je5hpqjz4\/NS2-FA.jpg"
  },
  {
   "_id": 33,
-  "Серия": "NS2-25, NS2-25X, NS2-80",
+  "Серия": "25-AU\/AX",
   "Артикул": 495965,
   "Наименование": "Аварийно-Всп.контакты NS2-FA1001 (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/d58\/q589m5dn80y4abtvp9ovib9je5hpqjz4\/NS2-FA.jpg"
  },
  {
   "_id": 34,
-  "Серия": "NS2-25, NS2-25X, NS2-80",
+  "Серия": "25-AU\/AX",
   "Артикул": 495956,
   "Наименование": "Аварийно-Всп.контакты NS2-FA0110 (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/d58\/q589m5dn80y4abtvp9ovib9je5hpqjz4\/NS2-FA.jpg"
  },
  {
   "_id": 35,
-  "Серия": "NS2-25",
+  "Серия": "25-SB",
   "Артикул": 495945,
   "Наименование": "Защитная оболочка с кнопкой \"Стоп\" для NS2 (R)",
   "src": "https:\/\/chint.ru\/upload\/iblock\/0d0\/5gxyjehmqmopc2tt5i7hevl967fsz4jj\/Защитная%20оболочка.jpg"
  },
  {
   "_id": 36,
-  "Серия": "NS2-25X",
+  "Серия": "25-RH",
   "Артикул": 302963,
   "Наименование": "Выносная рукоятка для NS2-25X (R)",
   "src": "https:\/\/download.schneider-electric.com\/files?p_Doc_Ref=GV2APN01_Image&p_File_Type=rendition_369_jpg&default_image=DefaultProductImage.png"
  },
  {
   "_id": 37,
-  "Серия": "NS2-80",
+  "Серия": "80-RH",
   "Артикул": 302964,
   "Наименование": "Выносная рукоятка для NS2-80 с поворотной ручкой (R)",
   "src": "https:\/\/download.schneider-electric.com\/files?p_Doc_Ref=GV2APN01_Image&p_File_Type=rendition_369_jpg&default_image=DefaultProductImage.png"

@@ -102,6 +102,12 @@
     "src": "/ct-app/assets/images/cards/cable-marking.webp"
   },
   {
+    "_id": 18,
+    "title": "Контакторы",
+    "link": "contactors",
+    "src": "/ct-app/assets/images/cards/contactors.webp"
+  },
+  {
     "_id": 19,
     "title": "Клеммы",
     "link": "terminal-blocks",
