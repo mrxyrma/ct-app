@@ -1,18 +1,12 @@
-# Vue 3 + TypeScript + Vite
+# Сайт по подбору оборудования
+Данный проект был разработан для оперативного подбора электротехнического оборудования сотрудниками компании ГК Сети-Телеком.
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Ключевые функциональные особенности:
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Type Support For `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
-
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
-
-1. Disable the built-in TypeScript Extension
-   1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-   2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+ - В приложении реализован роутинг: имеется главная страница, страница для подбора определённого типа оборудования, а также страница с информацией об конкретном изделии.
+ - При загрузке данных отображается спиннер.
+ - Сайт адаптирован как под мониторы персональных компьютеров и ноутбуков, так и под мобильные устройства.
+ - Имеются компоненты с поиском и фильтрацией товаров.
+ - Для повышения скорости работы, реализовано копирование информации в буфер обмена при нажатии на артикул или наименование товара.
+ - На странице продукта реализовано всплывающее модальное окно с отображением более крупного фото из карточки товара.
+ - Имеется поддержка PWA - данным проектом можно пользоваться как в качестве обычного сайта, так и в качестве приложения, установленного на ПК или мобильный телефон (вне зависимости от ОС).
