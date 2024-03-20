@@ -1,14 +1,23 @@
 <script setup lang="ts">
   import { TableCard } from 'src/entities/table-card';
   import { useCategoryCardsStore } from 'src/shared/stores/category-cards-store.ts';
+  import { AppSpinner } from 'src/shared/ui';
+  import { onMounted } from 'vue';
 
   const categoryCardsStore = useCategoryCardsStore();
+
   document.title = 'Подбор оборудования';
+
+  onMounted(() => categoryCardsStore.fetchCards());
 </script>
 
 <template>
   <main>
-    <ul class="grid gap-5 cards">
+    <app-spinner v-if="categoryCardsStore.loading" />
+    <ul
+      v-else
+      class="grid gap-5 cards"
+    >
       <table-card
         v-for="card in categoryCardsStore.cards"
         :key="card._id"

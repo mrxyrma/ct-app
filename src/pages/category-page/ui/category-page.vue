@@ -40,10 +40,10 @@
         <filter-form />
 
         <div class="w-full sm:w-4/6">
-          <h3 class="text-xl text-center font-semibold mb-2 sm:text-left">Возможные варианты:</h3>
+          <h3 class="text-xl text-center font-semibold sm:text-left">Возможные варианты:</h3>
           <p
             v-if="!productsStore.visibleProducts.length"
-            class="text-center mt-3"
+            class="text-center mt-3 sm:text-left"
           >
             Изделий с выбранными характеристиками нет
             <br />

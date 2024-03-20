@@ -1,7 +1,7 @@
 <script setup lang="ts">
   import { computed, ref } from 'vue';
   import AppPlaceholder from 'src/shared/images/placeholder.svg';
-  import { ModalImage } from 'src/entities/modal-image';
+  import { AppModal } from 'src/shared/ui';
 
   type Props = {
     productData: { [p: string]: string | number };
@@ -63,7 +63,7 @@
       </p>
     </div>
   </div>
-  <modal-image
+  <app-modal
     v-if="isModal"
     :src="src as string"
     @toggle-modal="toggleModal"

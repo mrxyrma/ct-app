@@ -1,6 +1,6 @@
 <script setup lang="ts">
   import AppPlaceholder from 'src/shared/images/placeholder.svg';
-  import { ModalImage } from 'src/entities/modal-image';
+  import { AppModal } from 'src/shared/ui';
   import { computed, ref } from 'vue';
 
   type Props = {
@@ -48,7 +48,7 @@
       </span>
     </p>
   </li>
-  <modal-image
+  <app-modal
     v-if="isModal"
     :src="src"
     @toggle-modal="toggleModal"

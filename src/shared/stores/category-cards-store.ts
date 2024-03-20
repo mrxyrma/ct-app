@@ -9,9 +9,16 @@ type Card = {
 };
 
 export const useCategoryCardsStore = defineStore('categoryCards', () => {
-  import('../data/category-сards.json').then(res => (cards.value = res.default));
-
   const cards = ref<Card[]>([]);
+  const loading = ref(false);
 
-  return { cards };
+  async function fetchCards() {
+    loading.value = true;
+
+    await import('../data/category-сards.json').then(res => (cards.value = res.default)).catch(e => console.log(e));
+
+    loading.value = false;
+  }
+
+  return { cards, loading, fetchCards };
 });
