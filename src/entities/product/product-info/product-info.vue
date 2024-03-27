@@ -1,7 +1,8 @@
 <script setup lang="ts">
+  import { isUndefined } from 'lodash';
   import AppPlaceholder from 'src/shared/images/placeholder.svg';
   import { AppModal } from 'src/shared/ui';
-  import { computed, ref } from 'vue';
+  import { computed, ref, watchEffect } from 'vue';
 
   type Props = {
     productData: { [p: string]: string | number };
@@ -10,7 +11,7 @@
   const props = defineProps<Props>();
 
   const isModal = ref(false);
-  const src = ref(props.productData['src'] || AppPlaceholder);
+  const src = ref(AppPlaceholder);
 
   const paramsArr = computed(() => {
     const paramsArr = [];
@@ -31,6 +32,10 @@
   function toggleModal() {
     isModal.value = !isModal.value;
   }
+
+  watchEffect(() => {
+    if (!isUndefined(props.productData['src'])) src.value = props.productData['src'] as string;
+  });
 </script>
 
 <template>

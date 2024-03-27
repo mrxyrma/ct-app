@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="flex h-full justify-center items-center">
+  <div class="flex h-screen justify-center items-center fixed top-0 left-0 right-0">
     <img
       :src="Spinner"
       alt="Идёт загрузка"
