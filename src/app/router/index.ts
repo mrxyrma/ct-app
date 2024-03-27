@@ -9,6 +9,7 @@ const routes = [
   {
     path: '/:category',
     component: () => import('src/pages/category-page/ui/category-page.vue'),
+    name: 'categoryPage',
   },
   {
     path: '/:category/:product',

@@ -1,6 +1,7 @@
 <script setup lang="ts">
   import { useProductsStore } from 'src/shared/stores/products-store.ts';
-  import { computed } from 'vue';
+  import { computed, onMounted } from 'vue';
+  import { useRoute } from 'vue-router';
 
   type Props = {
     label: string | number;
@@ -10,7 +11,20 @@
   const { label, fieldsetTitle } = defineProps<Props>();
 
   const productsStore = useProductsStore();
+
+  const route = useRoute();
+
   const isDisabled = computed(() => !productsStore.visibleProducts.find(product => product[fieldsetTitle] === label));
+  const isChecked = computed(() => route.query[fieldsetTitle] == label);
+
+  onMounted(() => {
+    if (isChecked.value) {
+      const arr = []; //для объекта filters требуется массив
+      arr.push(label);
+      productsStore.filters[fieldsetTitle] = arr;
+      productsStore.filterItems();
+    }
+  });
 </script>
 
 <template>
@@ -23,9 +37,10 @@
   >
     <input
       type="checkbox"
-      :name="fieldsetTitle"
+      :name="String(label)"
       :value="String(label)"
       class="appearance-none absolute"
+      :checked="isChecked"
       :disabled="isDisabled"
     />
     {{ label }}

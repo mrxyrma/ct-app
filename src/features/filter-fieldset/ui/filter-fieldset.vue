@@ -1,8 +1,9 @@
 <script setup lang="ts">
+  import { isNumber, isUndefined } from 'lodash';
   import { FilterButton } from 'src/entities/filter-button';
   import { useProductsStore } from 'src/shared/stores/products-store.ts';
-  import { isNumber, isUndefined } from 'lodash';
   import { computed } from 'vue';
+  import { useRoute, useRouter } from 'vue-router';
 
   type Props = {
     fieldsetTitle: string;
@@ -11,6 +12,9 @@
   const { fieldsetTitle } = defineProps<Props>();
 
   const productsStore = useProductsStore();
+
+  const route = useRoute();
+  const router = useRouter();
 
   const fieldsetButtons = computed(() =>
     productsStore.products.reduce((acc: (string | number)[], curr) => {
@@ -43,11 +47,30 @@
         .map(item => makeCorrectFormat(item as HTMLInputElement));
     }
 
+    filterToQueryParams(selectedBtns);
+
     if (!selectedBtns.length) {
       selectedBtns = sortedFieldsetButtons;
     }
 
     productsStore.filters[fieldsetTitle] = selectedBtns;
+  }
+
+  function filterToQueryParams(selectedBtn: (string | number)[]) {
+    const isSomeChecked = Boolean(document.querySelectorAll('input:checked').length);
+
+    if (isSomeChecked) {
+      router.replace({
+        query: {
+          ...route.query,
+          [fieldsetTitle]: selectedBtn,
+        },
+      });
+    } else {
+      router.replace({
+        name: 'categoryPage',
+      });
+    }
   }
 </script>
 
