@@ -61,6 +61,7 @@
 
     if (isSomeChecked) {
       router.replace({
+        name: 'categoryPage',
         query: {
           ...route.query,
           [fieldsetTitle]: selectedBtn,
