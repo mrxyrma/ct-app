@@ -1,7 +1,7 @@
 <script setup lang="ts">
-  import { computed, ref } from 'vue';
   import AppPlaceholder from 'src/shared/images/placeholder.svg';
   import { AppModal } from 'src/shared/ui';
+  import { computed, ref } from 'vue';
 
   type Props = {
     productData: { [p: string]: string | number };
@@ -10,12 +10,12 @@
   const props = defineProps<Props>();
 
   const isModal = ref(false);
+  const src = ref(props.productData['src'] || AppPlaceholder);
 
-  const src = computed(() => props.productData['src'] || AppPlaceholder);
   const paramsArr = computed(() => {
     const paramsArr = [];
 
-    for (let key in props.productData) {
+    for (const key in props.productData) {
       if (!['_id', 'Артикул', 'Наименование', 'Серия', 'src'].includes(key)) {
         paramsArr.push(`${key}: ${props.productData[key]}`);
       }
@@ -39,6 +39,7 @@
       class="w-80 h-80 object-scale-down cursor-pointer"
       :src="src as string"
       alt="Фото изделия"
+      @error="src = AppPlaceholder"
       @click="toggleModal"
     />
     <div class="flex flex-col">

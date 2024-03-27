@@ -1,7 +1,7 @@
 <script setup lang="ts">
   import AppPlaceholder from 'src/shared/images/placeholder.svg';
   import { AppModal } from 'src/shared/ui';
-  import { computed, ref } from 'vue';
+  import { ref } from 'vue';
 
   type Props = {
     order_num: string | number;
@@ -12,8 +12,7 @@
   const props = defineProps<Props>();
 
   const isModal = ref(false);
-
-  const src = computed(() => props.src || AppPlaceholder);
+  const src = ref(props.src || AppPlaceholder);
 
   function toggleModal() {
     isModal.value = !isModal.value;
@@ -30,6 +29,7 @@
       :src="src"
       alt="Фото аксессуара"
       class="w-32 h-32 object-scale-down cursor-pointer"
+      @error="src = AppPlaceholder"
       @click="toggleModal"
     />
     <p>
